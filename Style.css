@@ -1,0 +1,10 @@
+/* Fichier style.css */
+body {
+    background-color: #00a400;; /* Change la couleur de fond */
+    font-family: Arial, sans-serif; /* Change la police */
+}
+
+h1 {
+    color: #000000; /* Change la couleur du texte */
+    text-align: center; /* Centre le texte */
+}
